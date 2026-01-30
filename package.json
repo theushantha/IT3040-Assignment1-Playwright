@@ -1,0 +1,22 @@
+{
+  "name": "it3040-assignment1-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theushantha/IT3040-Assignment1-Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theushantha/IT3040-Assignment1-Playwright/issues"
+  },
+  "homepage": "https://github.com/theushantha/IT3040-Assignment1-Playwright#readme",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.58.0",
+    "@types/node": "^25.1.0"
+  }
+}
