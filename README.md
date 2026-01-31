@@ -13,11 +13,17 @@ The tests validate Singlish to Sinhala conversion behavior of the Swift Translat
 1. Install dependencies
    npm install
 
-2. Run Playwright tests
+2. Install Playwright browsers
+   npx playwright install
+
+3. Run Playwright tests
    npx playwright test
+
+4. View HTML report (optional)
+   npx playwright show-report
 
 ## Student Details
 Name: ARACHCHI N A U D  
-Registration Number: IT23194458
+Registration Number: IT23194458  
 
-Note: The Excel test cases document full manual coverage, while Playwright tests demonstrate representative automation.
+Note: The Excel test cases provide manual test coverage, and the Playwright tests automate the same 34 test cases.
